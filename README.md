@@ -2,9 +2,9 @@
 
 # Project Name
 Context and date
-
+Proejct 4: Platformer, March 14, 2026
 Description
-
+Added level, 2 enemies, and 2 non collectable coins
 ## Implementation
 Which features you included.
 
@@ -17,3 +17,5 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Eli Baker
+EliBaker22
